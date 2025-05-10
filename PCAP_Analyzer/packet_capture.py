@@ -1,3 +1,13 @@
+#############################################################
+
+# Copyright 2025 North Carolina State University
+
+# Authored by
+# Pranshav Gajjar, Abiodun Ganiyu, and Vijay K. Shah
+# NextG Wireless Lab, North Carolina State University
+
+############################################################# 
+
 import argparse
 import subprocess
 import ipaddress
